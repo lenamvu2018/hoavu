@@ -1,0 +1,266 @@
+{
+  "chitiet": [
+    {
+      "id": 1,
+      "hoadon": null,
+      "mahang": null,
+      "sl": null,
+      "DVT": null,
+      "dg": null,
+      "tt": null
+    },
+    {
+      "id": 2,
+      "hoadon": null,
+      "mahang": null,
+      "sl": null,
+      "DVT": null,
+      "dg": null,
+      "tt": null
+    },
+    {
+      "id": 3,
+      "hoadon": null,
+      "mahang": null,
+      "sl": null,
+      "DVT": null,
+      "dg": null,
+      "tt": null
+    },
+    {
+      "id": 4,
+      "hoadon": null,
+      "mahang": null,
+      "sl": null,
+      "DVT": null,
+      "dg": null,
+      "tt": null
+    },
+    {
+      "id": 5,
+      "hoadon": null,
+      "mahang": null,
+      "sl": null,
+      "DVT": null,
+      "dg": null,
+      "tt": null
+    },
+    {
+      "id": 6,
+      "hoadon": null,
+      "mahang": null,
+      "sl": null,
+      "DVT": null,
+      "dg": null,
+      "tt": null
+    },
+    {
+      "id": 7,
+      "hoadon": null,
+      "mahang": null,
+      "sl": null,
+      "DVT": null,
+      "dg": null,
+      "tt": null
+    },
+    {
+      "id": 8,
+      "hoadon": null,
+      "mahang": null,
+      "sl": null,
+      "DVT": null,
+      "dg": null,
+      "tt": null
+    },
+    {
+      "id": 9,
+      "hoadon": null,
+      "mahang": null,
+      "sl": null,
+      "DVT": null,
+      "dg": null,
+      "tt": null
+    },
+    {
+      "id": 10,
+      "hoadon": null,
+      "mahang": null,
+      "sl": null,
+      "DVT": null,
+      "dg": null,
+      "tt": null
+    }
+  ],
+  "chitiethd": [
+    {
+      "id": 1,
+      "mahoadon": null,
+      "mahang": null,
+      "sl": null,
+      "DVT": null,
+      "dongia": null,
+      "tt": null
+    }
+
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "Angular 4",
+      "description": "For  front end developer",
+      "fee": 10
+    },
+    {
+      "id": 2,
+      "name": "React JS",
+      "description": "Developer",
+      "fee": 20
+    },
+    {
+      "name": "Androi",
+      "description": "Angualr JS",
+      "fee": "100",
+      "id": 6
+    }
+  ],
+  "dmhang": [
+    {
+      "id": 1,
+      "mahang": "NH01",
+      "tenhang": "Nếp Hòa Hảo loại 1",
+      "xuatxu": "Việt Nam"
+    },
+    {
+      "id": 2,
+      "mahang": "NH02",
+      "tenhang": "Nếp Hòa Hảo loại 2",
+      "xuatxu": "Việt Nam"
+    },
+    {
+      "id": 3,
+      "mahang": "NT01",
+      "tenhang": "Nếp thơm loại 1",
+      "xuatxu": "Thái  Lan"
+    },
+    {
+      "id": 4,
+      "mahang": "NT02",
+      "tenhang": "Nếp thơm loại 2",
+      "xuatxu": "Việt Nam"
+    },
+    {
+      "mahang": "GA01",
+      "tenhang": "Gạo hạt ngọc trời 1 - 10kg",
+      "xuatxu": "Việt nam",
+      "id": 5
+    },
+    {
+      "mahang": "GA02",
+      "tenhang": "Gạo hạt ngọc trời 2 - 10kg",
+      "xuatxu": "Việt Nam",
+      "id": 6
+    },
+    {
+      "mahang": "GA03",
+      "tenhang": "Gạo hạt ngọc trời 3 - 10Kg",
+      "xuatxu": "Việt Nam",
+      "id": 7
+    },
+    {
+      "mahang": "DA01",
+      "tenhang": "Đậu xanh tróc vỏ loại 1",
+      "xuatxu": "Việt Nam",
+      "id": 8
+    },
+    {
+      "mahang": "DA02",
+      "tenhang": "Đậu xanh tróc vỏ loại 2",
+      "xuatxu": "Việt Nam",
+      "id": 9
+    },
+    {
+      "mahang": "DA03",
+      "tenhang": "Đậu xanh tróc vỏ loại thường",
+      "xuatxu": "Việt Nam",
+      "id": 10
+    },
+    {
+      "mahang": "DA04",
+      "tenhang": "Đậu trắng bi loại 1",
+      "xuatxu": "Việt Nam",
+      "id": 11
+    },
+    {
+      "mahang": "DA05",
+      "tenhang": "Đậu trắng bi loại 2",
+      "xuatxu": "Việt Nam",
+      "id": 12
+    },
+    {
+      "mahang": "DA06",
+      "tenhang": "Đậu hột loại 1",
+      "xuatxu": "Việt Nam",
+      "id": 13
+    },
+    {
+      "mahang": "DA07",
+      "tenhang": "Đậu Nành",
+      "xuatxu": "Việt Nam",
+      "id": 14
+    }
+  ],
+  "dmkh": [
+    {
+      "id": 1,
+      "makh": "CH01",
+      "tenkh": "Anh Bình",
+      "diachi": "Chợ Châu Đốc",
+      "phone": "0919997227",
+      "tk": "001002003004005"
+    },
+    {
+      "id": 2,
+      "makh": "CH02",
+      "tenkh": "Dì Sinh",
+      "diachi": "Chợ Châu Đốc",
+      "phone": "0919997772",
+      "tk": "005002003004005"
+    },
+    {
+      "makh": "CD01",
+      "tenkh": "Anh Bình",
+      "diachi": "Chợ Cái Dầu",
+      "phone": "9837543932409",
+      "tk": "0099776655544",
+      "id": 3
+    },
+    {
+      "makh": "AP01",
+      "tenkh": "Chú Hui",
+      "diachi": "Chợ Long Bình",
+      "phone": "876756459i9",
+      "tk": "8885554333",
+      "id": 4
+    },
+    {
+      "makh": "NS01",
+      "tenkh": "Anh Kiệt",
+      "diachi": "Núi Sam",
+      "phone": "456575888",
+      "tk": "0009987766",
+      "id": 5
+    }
+  ],
+  "hoadon": [
+    {
+      "id": 1,
+      "mahoadon": null,
+      "makh": null,
+      "tonghoadon": null,
+      "tratien": null,
+      "conlai": null,
+      "kt": null,
+      "tinhtrang": false
+    }
+  ]
+}
